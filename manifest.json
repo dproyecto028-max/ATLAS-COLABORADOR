@@ -1,0 +1,17 @@
+{
+  "name": "CLEANING SERVICE Colaborador",
+  "short_name": "CS Colab",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#08111d",
+  "theme_color": "#0b1220",
+  "description": "App móvil para colaboradores de CLEANING SERVICE",
+  "icons": [
+    {
+      "src": "../LOGO CLEANING SERVICE.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
